@@ -1,10 +1,9 @@
-<script setup>
-  <router-view/>
-</script>
-
 <template>
-  App.vue
+   <router-view/>
 </template>
+
+<script setup>
+</script>
 
 <style scoped>
 
